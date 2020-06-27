@@ -12,3 +12,5 @@ Hear the main steps followed:
 - PCA and component visualization
 - SVM
 - logistic regression
+
+For have a look to some of the results that I've obtained just click to the PCA.PNG file
